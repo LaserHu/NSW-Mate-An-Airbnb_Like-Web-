@@ -1,0 +1,40 @@
+.Search-Outside {
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    height: 500px;
+    z-index: 2;
+}
+
+.Search-Inside {
+    margin-left: 7%;
+    height: 100%;
+    width: 400px;
+}
+
+.Search-Card {
+    height: 100%;
+    width: 100%;
+    -webkit-box-shadow: #666 0px 0px 10px;
+    -moz-box-shadow: #666 0px 0px 10px;
+    box-shadow: #666 0px 0px 10px;
+    background: white;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Card-Container {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+.Self-Button {
+    width: 100%;
+    height: 60px;
+}
+
+.Button-Position {
+    margin-left: 70%;
+}

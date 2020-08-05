@@ -1,0 +1,22 @@
+.RoomCard-Image {
+    width: 95%;
+    height: 65%;
+    object-fit: cover;
+    border-radius: 3px;
+    
+
+}
+.RoomCard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.RoomCard:hover {
+    box-shadow: 0 0 11px rgb(0, 148, 255);
+}
+
+.RoomCardSelect {
+    box-shadow: 0 0 11px rgb(0, 13, 255);
+}
+
+.RoomCardHistory {
+    box-shadow: 0 0 11px rgb(255, 216, 0);
+}

@@ -1,0 +1,7 @@
+.OrderCard {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    height: 150px;
+}

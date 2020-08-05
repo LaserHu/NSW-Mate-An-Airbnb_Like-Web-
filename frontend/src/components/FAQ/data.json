@@ -1,0 +1,13 @@
+{
+  "accountdata": {
+    "createacc":{
+      "link": "/createacc",
+      "description": "Create an Account"
+    },
+    "resetpass":{
+      "key": "resetpass",
+      "link": "resetpass",
+      "description": "Reset Password"
+    }
+  }
+}

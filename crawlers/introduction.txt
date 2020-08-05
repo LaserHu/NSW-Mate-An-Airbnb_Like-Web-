@@ -1,0 +1,4 @@
+
+The file contains two part:
+  1.puppeteer script for creating html files at localhost
+  2.python crawler for fetching the data

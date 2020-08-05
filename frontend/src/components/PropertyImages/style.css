@@ -1,0 +1,34 @@
+.Property-Images-Box {
+    width: 100%;
+    height: 60vh;
+    background-color: #ffffff;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.Property-Image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    -webkit-filter: brightness(80%); /* Chrome, Safari, Opera */
+    filter: brightness(80%);
+    border: 1px solid rgba(69, 69, 69, 1);
+}
+
+.Property-Image:hover {
+    -webkit-filter: brightness(100%); /* Chrome, Safari, Opera */
+    filter: brightness(100%);
+    transform: scale(1.1);
+    transition: .5s;
+}
+
+.Button1 {
+
+}
+
+.Button1:hover {
+    color: #666666;
+    border: 0;
+}

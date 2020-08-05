@@ -1,0 +1,32 @@
+.About {
+    flex: 1;
+}
+
+.Image-Div {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: block;
+}
+
+.About-Image {
+    transform: translate3d(0px, 0px, 0px);
+    height: auto;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.About-Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#components-layout-demo-top-side-2 .logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 28px 16px 0;
+    float: left;
+}

@@ -1,0 +1,24 @@
+.City-Container {
+    align-items: center;
+    margin-right: 15px;
+    min-width: 300px;
+    height: 100% !important;
+}
+
+.City-Container > img {
+    height:100%!important;
+}
+
+.City-Image {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.City-Content {
+    position: relative;
+    color: white;
+    top: -80px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

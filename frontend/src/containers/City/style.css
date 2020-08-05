@@ -1,0 +1,26 @@
+.CityPage-Image {
+    filter: blur(5px);
+    width: 100%;
+    object-fit: cover;
+    height: 550px;
+    transform: scale(1.02);
+    overflow: hidden;
+}
+
+.CityName {
+    box-sizing: border-box;
+    font-size: 35px;
+    font-family: "Snell Roundhand";
+    color: rgb(69, 69, 69);
+    background-color: rgb(255, 255, 255);
+    font-weight: 400;
+    position: absolute;
+    top: 30%;
+    height: 9%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 16px;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 15px;
+}

@@ -1,0 +1,13 @@
+.FixedMap {
+    position: fixed;
+    top: 0;
+    width: 50%;
+    height: 100%;
+}
+
+.BottomMap {
+    position: absolute;
+    top: 1253px;
+    width: 50%;
+    height: 100%;
+}

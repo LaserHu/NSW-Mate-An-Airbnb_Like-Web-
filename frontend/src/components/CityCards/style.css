@@ -1,0 +1,26 @@
+.CityCards-Container {
+    width: 90%;
+    margin-top: 80px;
+}
+
+.Card-List {
+    display: flex;
+    flex-direction: row;
+    transition: .5s;
+    height: 100%;
+}
+
+.Move-Button {
+    position: absolute!important;
+    top:  50%!important;
+}
+
+.Move-Button:first-child{
+    transform: translate(0%, -25%) !important;
+    left:-20px
+}
+
+.Move-Button:last-child{
+    left: 100% !important;
+    transform: translate(-50%, -25%) !important;
+}

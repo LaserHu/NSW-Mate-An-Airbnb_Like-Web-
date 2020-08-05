@@ -1,0 +1,32 @@
+.hostBox {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.hostBox .left-right {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.hostBox .left {
+    width: 20%;
+}
+
+.hostBox .right {
+    margin-left: 10%;
+    width: 70%;
+}
+
+.ant-upload-select-picture-card i {
+    font-size: 32px;
+    color: #999;
+}
+
+.ant-upload-select-picture-card .ant-upload-text {
+    margin-top: 8px;
+    color: #666;
+}

@@ -1,0 +1,46 @@
+{
+  "accountdata": [
+    {
+      "key": "createacc",
+      "navBar": "Create an Account",
+      "question": "How do I Create an Account?",
+      "description": [
+        "You can create an account by clicking, ",
+        {
+          "to": "/register",
+          "linkText": "Register"
+        },
+        " in the navigation bar of the website. You will need to type in your email, username and password.",
+        "\n",
+        "Please keep your account details safe. We will never ask you for your password except when you are logging in."
+      ]
+    },
+    {
+      "key": "resetpass",
+      "navBar": "Reset my Password",
+      "question": "How I Reset My Password?",
+      "description": [
+
+        "You can easily reset your password by clicking Login in the navigation bar, then click ",
+        {
+          "to": "/forgotpassword",
+          "linkText": "\"Forgot your Password?\""
+        },
+        "\n",
+        "You will need your email you used to register for an account to receive an email with a password reset link. Click on the link in the email to be redirected to a new page where you can choose a new password for your account"
+      ]
+    }
+  ],
+  "gettingstarted": [
+    {
+      "key": "aboutnswmate",
+      "navBar": "About NSWMate",
+      "question": "What is NSWMate and how does it work?",
+      "description": [
+        "NSWMate is an accommodation web portal that aims to cater for all your travel needs in New South Wales, Australia. It primarily focuses on providing the best options of staying in NSW by suggesting locations which are closest to your places of interest.",
+        "\n",
+        "In addition, we aim to support customers to identify all important aspects of their travels in NSW such as transportation routes, nearby restaurant options and local events"
+      ]
+    }
+  ]
+}
